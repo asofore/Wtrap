@@ -1,0 +1,3 @@
+The app created by PyMode
+Telegram https://t.me/vp_mv
+GitHub https://gitHub.com/asofore
